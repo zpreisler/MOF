@@ -1,8 +1,11 @@
+### schematics
+![schematics](doc/schematics.png)
+
 ### quench
-![quench](MOF_quench/mof_quench.png)
+![quench](doc/mof_quench.png)
 
 ### rates
-![rates](MOF_rates/mof_rates.png)
+![rates](doc/mof_rates.png)
 
-### size
-![size](MOF_size/mof_size.png)
+### evolution
+![evolution](doc/evolution.png)
